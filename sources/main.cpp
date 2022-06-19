@@ -1,6 +1,7 @@
 #include "League.hpp"
 #include "Team.hpp"
 #include "Game.hpp"
+//run using make command
 int main()
 {
 	League l1;
